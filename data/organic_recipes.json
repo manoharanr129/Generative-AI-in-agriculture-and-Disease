@@ -1,0 +1,137 @@
+{
+    "recipes": {
+        "leaf_blight": {
+            "name": "Neem & Garlic Spray",
+            "ingredients": [
+                "10 liters of water",
+                "100ml neem oil",
+                "50g crushed garlic cloves",
+                "10ml liquid soap (as emulsifier)"
+            ],
+            "preparation": [
+                "Crush garlic cloves and soak in 2 liters of water overnight",
+                "Strain the garlic water",
+                "Mix neem oil with liquid soap in a separate container",
+                "Add the neem-soap mixture to the garlic water",
+                "Add remaining water and mix thoroughly"
+            ],
+            "application": {
+                "method": "Spray on affected leaves and stems, covering both upper and lower leaf surfaces",
+                "frequency": "Apply every 7-10 days",
+                "timing": "Early morning or late evening",
+                "duration": "Continue for 3-4 weeks"
+            }
+        },
+        "powdery_mildew": {
+            "name": "Baking Soda & Milk Solution",
+            "ingredients": [
+                "10 liters of water",
+                "40g baking soda",
+                "1 liter milk (diluted)",
+                "15ml vegetable oil"
+            ],
+            "preparation": [
+                "Dissolve baking soda in 1 liter of warm water",
+                "Mix milk with 2 liters of water",
+                "Combine both solutions",
+                "Add vegetable oil and remaining water",
+                "Stir well until fully mixed"
+            ],
+            "application": {
+                "method": "Spray thoroughly on all plant surfaces, especially affected areas",
+                "frequency": "Apply twice weekly",
+                "timing": "Morning hours when dew has dried",
+                "duration": "Continue until symptoms disappear, then once weekly for prevention"
+            }
+        },
+        "bacterial_spot": {
+            "name": "Copper-Turmeric Paste",
+            "ingredients": [
+                "10 liters of water",
+                "100g turmeric powder",
+                "50g copper sulfate (food grade)",
+                "200ml buttermilk"
+            ],
+            "preparation": [
+                "Mix turmeric powder with buttermilk to form a paste",
+                "Dissolve copper sulfate in 2 liters of water separately",
+                "Slowly add the turmeric paste to the copper solution",
+                "Add remaining water and mix thoroughly",
+                "Let it sit for 30 minutes before use"
+            ],
+            "application": {
+                "method": "Apply as a spray or paint directly on affected spots",
+                "frequency": "Apply every 5-7 days",
+                "timing": "Late evening to avoid sun damage",
+                "duration": "Continue for 2-3 weeks"
+            }
+        },
+        "rust": {
+            "name": "Compost Tea with Horsetail",
+            "ingredients": [
+                "10 liters of water",
+                "2 kg well-aged compost",
+                "500g dried horsetail plant",
+                "50ml molasses"
+            ],
+            "preparation": [
+                "Soak horsetail in 3 liters of water for 24 hours",
+                "Place compost in a cloth bag",
+                "Steep compost bag in remaining water for 3-5 days, stirring daily",
+                "Strain horsetail water and mix with compost tea",
+                "Add molasses and stir well"
+            ],
+            "application": {
+                "method": "Spray on foliage and soil around plant base",
+                "frequency": "Apply every 10-14 days",
+                "timing": "Early morning",
+                "duration": "Continue throughout growing season"
+            }
+        },
+        "mosaic_virus": {
+            "name": "Seaweed & Epsom Salt Boost",
+            "ingredients": [
+                "10 liters of water",
+                "500ml liquid seaweed extract",
+                "100g Epsom salt",
+                "50g wood ash"
+            ],
+            "preparation": [
+                "Dissolve Epsom salt in 2 liters of warm water",
+                "Add seaweed extract to the solution",
+                "Mix wood ash with remaining water and strain",
+                "Combine both solutions",
+                "Let settle for 1 hour, then use the clear liquid"
+            ],
+            "application": {
+                "method": "Spray on healthy parts and soil to boost plant immunity",
+                "frequency": "Apply every 14 days",
+                "timing": "Morning or evening",
+                "duration": "Continue for entire season as preventive measure"
+            }
+        },
+        "anthracnose": {
+            "name": "Garlic-Chili-Soap Spray",
+            "ingredients": [
+                "10 liters of water",
+                "100g garlic cloves",
+                "50g hot chili peppers",
+                "20ml liquid soap",
+                "100ml apple cider vinegar"
+            ],
+            "preparation": [
+                "Blend garlic and chili peppers with 1 liter of water",
+                "Let the mixture steep overnight",
+                "Strain through fine cloth",
+                "Add liquid soap and apple cider vinegar",
+                "Dilute with remaining water"
+            ],
+            "application": {
+                "method": "Spray on affected areas and surrounding healthy tissue",
+                "frequency": "Apply every 5-7 days",
+                "timing": "Late afternoon",
+                "duration": "Continue for 3-4 weeks or until symptoms subside"
+            }
+        }
+    }
+}
